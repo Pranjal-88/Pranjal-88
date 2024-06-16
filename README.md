@@ -1,8 +1,6 @@
 # Hey there ✨! 
 
-<h2 align="center">I'm Pranjal Kishor, a passionate learner who thrives on acquiring new knowledge and continuously expanding my skillset.</h2>
-
-Here are some ideas to get you started:
+<h2 align="justify">## I'm Pranjal Kishor, a passionate learner eager to expand my knowledge and skills.</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
