@@ -14,6 +14,8 @@
     <img src="images/logo-javascript.svg" alt="Javascript" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="70" style="padding-right: 20px;"/>
+  </p>
+  <p align="left">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="70" style="padding-right: 20px;"/>
