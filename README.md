@@ -1,4 +1,4 @@
-# Hi there 👋 ! 
+# Hey there ✨! 
 
 ## I'm Pranjal Kishor, a passionate learner who thrives on acquiring new knowledge and continuously expanding my skillset.
 
