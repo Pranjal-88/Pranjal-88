@@ -26,7 +26,7 @@
   </p>
 </div>
 
-## Contact Me 🌐📧
+## Contact Me 🌐
 
 <p>
   <a href="mailto:pkishor_be22@thapar.edu" target="_blank">
