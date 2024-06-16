@@ -1,6 +1,6 @@
 # Hey there ✨! 
 
-<h3> align="justify">🌟 I'm Pranjal Kishor, a passionate learner eager to expand my knowledge and skills. </h3>
+<h3>🌟 I'm Pranjal Kishor, a passionate learner eager to expand my knowledge and skills. </h3>
 <h3>🚀 I'm enthusiastic about Deep Learning, Computer Vision, and Backend Development. </h3>
 <h3>📚 Continuously driven by curiosity, I thrive on learning and exploring new concepts in these domains. </h3>
 
