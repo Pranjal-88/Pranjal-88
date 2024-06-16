@@ -28,7 +28,7 @@
 
 ## Contact Me 🌐📧
 
-<p align="center">
+<p>
   <a href="mailto:pkishor_be22@thapar.edu" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
   </a>
