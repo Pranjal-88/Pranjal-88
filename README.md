@@ -7,7 +7,7 @@
 ## Technologies
 <p align="center">
   <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
+  <img src="images/ul.svg" alt="Python" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50"/>
   <!-- Add more icons as needed -->
 </p>
