@@ -1,7 +1,6 @@
-## Hi there 👋 ! I'm Pranjal Kishor
+# Hi there 👋 ! 
 
-<!--
-**Pranjal-88/Pranjal-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Pranjal Kishor, a passionate learner who thrives on acquiring new knowledge and continuously expanding my skillset.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
