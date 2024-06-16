@@ -7,9 +7,5 @@
 
 
 
-### Technologies
-![React.js](images/react.png)
-![Node.js](images/nodejs.png)
-![TensorFlow](images/tensorflow.png)
-![Git](images/git.png)
+
 
