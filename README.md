@@ -26,6 +26,16 @@
   </p>
 </div>
 
+## Contact Me 🌐📧
+<a href="mailto:pkishor_be22@thapar.edu" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/pranjalkishor/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+
 
 
 
