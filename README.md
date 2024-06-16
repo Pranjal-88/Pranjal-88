@@ -12,10 +12,12 @@
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="70" style="padding-right: 20px;"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="70" style="padding-right: 20px;"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="70" style="padding-right: 20px;"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="70" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="70" style="padding-right: 20px;"/>
+    <img src="images/c.svg" alt="TensorFlow" height="70" style="padding-right: 20px;"/>
   </p>
 </div>
 
