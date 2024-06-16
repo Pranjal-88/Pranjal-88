@@ -30,11 +30,11 @@
 
 <p>
   <a href="mailto:pkishor_be22@thapar.edu" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pranjalkishor/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="60"/>
   </a>
 </p>
 
