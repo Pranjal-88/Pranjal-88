@@ -1,6 +1,6 @@
 # Hey there ✨! 
 
-<h2 align="justify">I'm Pranjal Kishor, a passionate learner eager to expand my knowledge and skills.</h2>
+<h3 align="justify">I'm Pranjal Kishor, a passionate learner eager to expand my knowledge and skills.</h3>
 
 
 ## About Me
