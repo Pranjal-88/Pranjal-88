@@ -8,7 +8,6 @@
 <div align="center">
   <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" style="padding-right: 20px;"/>
-   
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" style="padding-right: 20px;"/>
      <img src="images/c.svg" alt="C" height="50" style="padding-right: 20px;"/>
