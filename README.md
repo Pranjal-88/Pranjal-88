@@ -18,13 +18,13 @@
    
   </p>
   <p align="left">
-    <img src="images/c.svg" alt="C" height="50" style="padding-right: 20px;"/>
-    <img src="images/c-1.svg" alt="C++" height="50" style="padding-right: 20px;"/>
-    <img src="images/golang-1.svg" alt="Golang" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" style="padding-right: 20px;"/>
      <img src="images/logo-javascript.svg" alt="Javascript" height="50" style="padding-right: 20px;"/>
+    <img src="images/golang-1.svg" alt="Golang" height="50" style="padding-right: 20px;"/>
+    <img src="images/c.svg" alt="C" height="50" style="padding-right: 20px;"/>
+    <img src="images/c-1.svg" alt="C++" height="50" style="padding-right: 20px;"/>
   </p>
 </div>
 
