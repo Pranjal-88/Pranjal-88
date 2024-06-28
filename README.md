@@ -13,7 +13,8 @@
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="50" style="padding-right: 20px;"/>
      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" style="padding-right: 20px;"/>
-    <img src="images/logo-javascript.svg" alt="Javascript" height="50" style="padding-right: 20px;"/>
+    <img src="images/ul.svg" alt="Ultralytics" height="50" style="padding-right: 20px;"/>
+   
    
   </p>
   <p align="left">
@@ -23,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50" style="padding-right: 20px;"/>
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" style="padding-right: 20px;"/>
-    <img src="images/ul.svg" alt="Ultralytics" height="50" style="padding-right: 20px;"/>
+     <img src="images/logo-javascript.svg" alt="Javascript" height="50" style="padding-right: 20px;"/>
   </p>
 </div>
 
