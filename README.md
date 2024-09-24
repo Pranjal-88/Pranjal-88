@@ -46,12 +46,26 @@
   </a>
 </p>
 
-## <b>🔥 My stats </b>
+## <b>🔥 My Stats </b>
 
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=dark&background=000000" alt="GitHub Streak"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+
+
