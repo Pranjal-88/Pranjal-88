@@ -45,3 +45,13 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="70" style="margin: 10px;"/>
   </a>
 </p>
+
+## <b>🔥 My stats </b>
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
