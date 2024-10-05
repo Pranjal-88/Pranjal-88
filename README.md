@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 <b>About Me</b>
-<h3>🌟 <b>Hi! I'm Pranjal, a third-year Computer Science student with a deep passion for technology.</b> </h3>
+<h3>🌟 <b>Hi! I am Pranjal, a third-year Computer Science student with a deep passion for technology.</b> </h3>
 <h3>🧠 <b>I'm constantly learning and exploring the realms of Deep Learning, Computer Vision, and Backend Development to build innovative solutions.</b> </h3>
 <h3>💡 <b>When not coding, you'll find me reading, exploring new ideas, or enjoying some outdoor activities.</b></h3>
 
