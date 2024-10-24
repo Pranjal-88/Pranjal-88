@@ -53,12 +53,12 @@
     <tr>
       <td>
         <a href="https://git.io/streak-stats">
-          <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=blue-green&background=000000" alt="GitHub Streak"/>
+<!--           <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=blue-green&background=000000" alt="GitHub Streak"/> -->
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=blue-green" alt="Top Langs"/>
+<!--           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=blue-green" alt="Top Langs"/> -->
         </a>
       </td>
     </tr>
