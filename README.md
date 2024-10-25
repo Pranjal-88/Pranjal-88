@@ -18,8 +18,8 @@
   <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" style="margin: 15px;"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="50" style="margin: 15px;"/>
-    <img src="images/logo-javascript.svg" alt="Javascript" height="50" style="margin: 15px;"/>
-    <img src="images/golang-1.svg" alt="Golang" height="50" style="margin: 15px;"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" height="50" style="margin: 15px;"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" height="50" style="margin: 15px;"/>
     <img src="images/c.svg" alt="C" height="50" style="margin: 15px;"/>
     <img src="images/c-1.svg" alt="C++" height="50" style="margin: 15px;"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="50" style="margin: 15px;"/>
