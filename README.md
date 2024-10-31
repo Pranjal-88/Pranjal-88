@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
-<img src="https://gifdb.com/images/thumbnail/gojo-satoru-escaping-home-idxdpobl78i7wgqk.gif" alt="Gojo GIF" width="200"/>
+<img src="https://i.pinimg.com/originals/ec/b4/6d/ecb46dbdc7ab6e2ba98c78aae27da954.gif" alt="Gojo GIF" width="200"/>
 
 </div>
 
