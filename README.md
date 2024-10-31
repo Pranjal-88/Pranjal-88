@@ -55,7 +55,8 @@ DevOps           ███████░░░░░░   65%
 ---
 
 <div align="center">
-🛠️ Tech Arsenal
+  
+## 🛠️ Tech Arsenal
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%;">
   <!-- Hacker GIF -->
   <!-- Tech Stack Table -->
