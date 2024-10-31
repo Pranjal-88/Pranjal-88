@@ -1,69 +1,175 @@
 <div align="center">
-  <h2>✨ <b>Hey there! I'm Pranjal Kishor</b> ✨</h2>
-  <img src="https://gifdb.com/images/thumbnail/gojo-satoru-escaping-home-idxdpobl78i7wgqk.gif" alt="Gojo GIF" width="250" style="margin-top: 10px; margin-bottom: 20px;"/>
-  <p>🚀 <b>Passionate learner, Deep Learning & Computer Vision enthusiast, Backend Developer.</b></p>
-  <p>📚 <b>Always curious and driven by the excitement of new knowledge and skills.</b></p>
+  
+# ⚡️ Hello World! I'm Pranjal Kishor ⚡️
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+
+<img src="https://gifdb.com/images/thumbnail/gojo-satoru-escaping-home-idxdpobl78i7wgqk.gif" alt="Gojo GIF" width="200"/>
+
 </div>
 
 ---
 
-## 🚀 <b>About Me</b>
 <div align="center">
-  <h3>🌟 <b>Hello! I'm Pranjal, a third-year Computer Science student with a passion for technology.</b> </h3>
-  <h3>🧠 <b>Exploring the realms of Deep Learning, Computer Vision, and Backend Development to build innovative solutions.</b> </h3>
-  <h3>💡 <b>When not coding, you'll find me reading, exploring new ideas, or enjoying the outdoors.</b></h3>
+  
+### 🚀 About Me
+  
+</div>
+
+```python
+class PranjalKishor:
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.location = "Thapar University"
+        self.knowledge_base = [
+            "Deep Learning",
+            "Computer Vision",
+            "Backend Development",
+            "Machine Learning"
+        ]
+        self.currently_learning = "MLOps and System Design"
+        self.hobbies = ["Coding", "Reading", "Tech Exploration", "Outdoor Adventures"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together! 🚀")
+
+me = PranjalKishor()
+me.say_hi()
+```
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="Golang" width="65" height="65"/>
+<br>Go
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+<br>C++
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65"/>
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65"/>
+<br>OpenCV
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65"/>
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+<br>MySQL
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎯 Featured Projects
+
+</div>
+
+<div align="center">
+<a href="https://github.com/pranjal-88/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-88&repo=project1&theme=tokyonight" />
+</a>
+<a href="https://github.com/pranjal-88/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-88&repo=project2&theme=tokyonight" />
+</a>
 </div>
 
 ---
 
-## 💻 <b>Technologies I Use</b>
 <div align="center">
-  <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" height="50" style="margin: 15px;"/>
-    <img src="images/c.svg" alt="C" height="50" style="margin: 15px;"/>
-    <img src="images/c-1.svg" alt="C++" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="50" style="margin: 15px;"/>
-    <img src="images/ul.svg" alt="Ultralytics" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="50" style="margin: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" height="50" style="margin: 15px;"/>
-  </p>
+
+### 📊 GitHub Analytics
+
 </div>
 
----
+<p align="center">
+<a href="https://github.com/pranjal-88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranjal-88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
-## 🌐 <b>Get in Touch</b>
-<div align="center">
-  <a href="mailto:pkishor_be22@thapar.edu" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail" height="60" style="margin: 10px;"/>
+<p align="center">
+  <a href="https://github.com/pranjal-88">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   </a>
-  <a href="https://www.linkedin.com/in/pranjalkishor/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="60" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pranjal-88">
+    <img src="https://github-profile-trophy.vercel.app/?username=pranjal-88&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true"/>
   </a>
-</div>
+</p>
 
 ---
 
-## <b>🔥 My Stats </b>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=blue-green&background=000000" alt="GitHub Streak"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=blue-green" alt="Top Langs"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+### 🤝 Connect with Me
+
+<p align="center">
+<a href="mailto:pkishor_be22@thapar.edu">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/pranjalkishor">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/pranjal-88">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<details>
+<summary>⚡ More About Me</summary>
+<br>
+  
+- 🔭 I'm currently working on **Deep Learning Projects**
+- 🌱 I'm currently learning **MLOps and System Design**
+- 👯 I'm looking to collaborate on **AI/ML Projects**
+- 💬 Ask me about **Python, Deep Learning, Computer Vision**
+- ⚡ Fun fact: **I can code for hours with just coffee and music!**
+  
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranjal-88&color=blue&style=flat)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
