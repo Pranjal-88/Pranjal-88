@@ -55,7 +55,7 @@ DevOps           ███████░░░░░░   65%
 ---
 
 
-  <div align="center">
+<div align="center">
 
 ## 🛠️ Tech Arsenal
 <table>
@@ -119,9 +119,11 @@ DevOps           ███████░░░░░░   65%
         </tr>
       </table>
     </td>
-    <!-- Hacker GIF on the Right -->
+    <!-- Spacer and GIF -->
+    <td style="width: 100px;"></td> <!-- Adds space between tech stack and GIF -->
+    <!-- Hacker GIF on the Right, without table borders -->
     <td align="center" valign="top">
-      <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250"/>
+      <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250" style="border: none;"/>
     </td>
   </tr>
 </table>
