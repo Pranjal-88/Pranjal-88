@@ -122,7 +122,7 @@ DevOps           ███████░░░░░░   65%
 
   <!-- Hacker GIF -->
   <div style="flex-shrink: 0;">
-    <img src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.webp" alt="Hacker GIF" width="300"/>
+    <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="300"/>
   </div>
 
 </div>
