@@ -55,11 +55,9 @@ DevOps           ███████░░░░░░   65%
 ---
 
 <div align="center">
-
-## 🛠️ Tech Arsenal
-
+🛠️ Tech Arsenal
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%;">
-
+  <!-- Hacker GIF -->
   <!-- Tech Stack Table -->
   <div style="flex-shrink: 0;">
     <table align="center">
@@ -119,14 +117,7 @@ DevOps           ███████░░░░░░   65%
       </tr>
     </table>
   </div>
-
-  <!-- Hacker GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="300"/>
-  </div>
-
 </div>
-
 
 ---
 
