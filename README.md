@@ -55,72 +55,76 @@ DevOps           ███████░░░░░░   65%
 ---
 
 
-  ## 🛠️ Tech Arsenal
-<div style="display: flex; align-items: flex-start; gap: 40px; width: 100%; justify-content: center;">
-  <!-- Tech Stack Table -->
-  <div style="flex: 1; max-width: 50%;">
-    <table align="center">
-      <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-          <br>Python
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
-          <br>Django
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-          <br>JavaScript
-        </td>
-        <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="65" height="65"/>
-          <br>Go
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
-          <br>C++
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-          <br>Docker
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-          <br>MySQL
-        </td>
-        <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
-          <br>C
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65"/>
-          <br>PyTorch
-        </td>
-        <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
-          <br>TensorFlow
-        </td>
-        <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65"/>
-          <br>OpenCV
-        </td>
-        <td align="center" width="96">
-          <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65"/>
-          <br>PostgreSQL
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <!-- Hacker GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250"/>
-  </div>
+  <div align="center">
+
+## 🛠️ Tech Arsenal
+<table>
+  <tr>
+    <!-- Tech Stack Table on the Left -->
+    <td>
+      <table align="center">
+        <tr>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+            <br>Python
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
+            <br>Django
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+            <br>JavaScript
+          </td>
+          <td align="center" width="96">
+            <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="65" height="65"/>
+            <br>Go
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+            <br>C++
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+            <br>Docker
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+            <br>MySQL
+          </td>
+          <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
+            <br>C
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65"/>
+            <br>PyTorch
+          </td>
+          <td align="center" width="96">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
+            <br>TensorFlow
+          </td>
+          <td align="center" width="96">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65"/>
+            <br>OpenCV
+          </td>
+          <td align="center" width="96">
+            <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65"/>
+            <br>PostgreSQL
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Hacker GIF on the Right -->
+    <td align="center" valign="top">
+      <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 
