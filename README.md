@@ -58,61 +58,61 @@ DevOps           ███████░░░░░░   65%
 <div align="center">
 
 ## 🛠️ Tech Arsenal
-<table>
-  <tr>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
     <!-- Tech Stack Table on the Left -->
-    <td>
-      <table align="center">
-        <tr>
-          <td align="center" width="96">
+    <td style="border: none;">
+      <table align="center" style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
             <br>Python
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
             <br>Django
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
             <br>JavaScript
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="65" height="65"/>
             <br>Go
           </td>
         </tr>
-        <tr>
-          <td align="center" width="96">
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
             <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
             <br>C++
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
             <br>Docker
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
             <br>MySQL
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
             <br>C
           </td>
         </tr>
-        <tr>
-          <td align="center" width="96">
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65"/>
             <br>PyTorch
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
             <br>TensorFlow
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65"/>
             <br>OpenCV
           </td>
-          <td align="center" width="96">
+          <td align="center" width="96" style="border: none;">
             <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65"/>
             <br>PostgreSQL
           </td>
@@ -120,10 +120,10 @@ DevOps           ███████░░░░░░   65%
       </table>
     </td>
     <!-- Spacer and GIF -->
-    <td style="width: 100px;"></td> <!-- Adds space between tech stack and GIF -->
-    <!-- Hacker GIF on the Right, without table borders -->
-    <td align="center" valign="top">
-      <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250" style="border: none;"/>
+    <td style="width: 100px; border: none;"></td>
+    <!-- Hacker GIF on the Right -->
+    <td align="center" valign="top" style="border: none;">
+      <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250"/>
     </td>
   </tr>
 </table>
