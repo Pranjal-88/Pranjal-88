@@ -178,7 +178,6 @@ DevOps           ███████░░░░░░   65%
   
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjal-88&color=blue&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
