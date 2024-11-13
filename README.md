@@ -95,8 +95,8 @@ DevOps           ███████░░░░░░   65%
             <br>MySQL
           </td>
           <td align="center" width="96" style="border: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/>
-            <br>C
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="C" width="50" height="50"/>
+            <br>GitHub
           </td>
         </tr>
         <tr style="border: none;">
