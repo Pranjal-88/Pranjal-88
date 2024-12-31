@@ -140,7 +140,7 @@ DevOps           ███████░░░░░░   65%
 <p align="center">
 <a href="https://github.com/pranjal-88">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjal-88&theme=tokyonight"/>
 </a>
 </p>
 
