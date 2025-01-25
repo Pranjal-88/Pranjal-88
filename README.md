@@ -136,13 +136,10 @@ DevOps           ███████░░░░░░   65%
 <div align="center">
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/pranjal-88">
-  <img height="180em" src="https://shivansh12t-readme-stats.vercel.app/?user=pranjal-88&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+<div style="display: flex; gap: 20px;">
+  <img height="180em" src="https://shivansh12t-readme-stats.vercel.app?user=pranjal-88&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjal-88&theme=tokyonight"/>
-</a>
-</p>
+</div>
 
 
 </div>
