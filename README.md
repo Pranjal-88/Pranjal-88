@@ -137,7 +137,7 @@ DevOps           ███████░░░░░░   65%
 
 ## 📊 GitHub Analytics
 <div style="display: flex; gap: 20px;">
-  <img height="180em" src="https://shivansh12t-readme-stats.vercel.app?user=pranjal-88&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://shivansh12t-readme-stat.vercel.app?user=pranjal-88&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjal-88&theme=github_dark"/>
 </div>
 
