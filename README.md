@@ -19,8 +19,9 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="150em" src="https://shivansh12t-readme-stat.vercel.app?user=pranjal-88&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjal-88&theme=github_dark"/>
+  <img height="150em" src="https://shivansh12t-readme-stat.vercel.app?user=pranjal-88&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" style="margin-right: 15px"/>
+  
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjal-88&theme=github_dark" style="margin-left: 15px"/>
 </div>
 
 ## 🤝 Connect with Me
