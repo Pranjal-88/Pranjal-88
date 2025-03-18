@@ -14,7 +14,7 @@
 </div>
 
 ## 🛠️ Tech Stack
-<div >
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,golang,matlab,react,nextjs,tailwind,bootstrap,html,css,django,flask,nodejs,mongodb,postgresql,mysql,sqlite,firebase,tensorflow,pytorch,opencv,r,sklearn,docker,aws,git,github,vercel,vscode,ps,pycharm,figma,cf,postman,blender" width="70%" />
   </a>
