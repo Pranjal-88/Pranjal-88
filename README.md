@@ -14,8 +14,11 @@
 </div>
 
 ## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,golang,matlab,react,nextjs,tailwind,bootstrap,html,css,django,flask,nodejs,mongodb,postgresql,mysql,sqlite,firebase,tensorflow,pytorch,opencv,r,sklearn,docker,aws,git,github,vercel,vscode,ps,pycharm,figma,cf,postman,blender)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,golang,matlab,react,nextjs,tailwind,bootstrap,html,css,django,flask,nodejs,mongodb,postgresql,mysql,sqlite,firebase,tensorflow,pytorch,opencv,r,sklearn,docker,aws,git,github,vercel,vscode,ps,pycharm,figma,cf,postman,blender" width="60%" />
+  </a>
+</div>
 
 ## 📊 GitHub Analytics
 <div align="center">
